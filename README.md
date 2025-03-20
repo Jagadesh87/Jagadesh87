@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jagadesh</h1>
 <h3 align="center">Aspiring and Motivated Software Developer with a strong Foundation.</h3>
 
-- 🔭 I’m currently working on **Bus Booking**
+- 🔭 I’m currently working on **Full Stack project**
 
 - 🌱 I’m currently learning **Backend Development in Java**
 
